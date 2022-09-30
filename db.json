@@ -83,6 +83,20 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "1999-12-02",
+      "description": "chilll out",
+      "category": "relax",
+      "amount": 10000,
+      "id": 13
+    },
+    {
+      "date": "1999-03-01",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "jnbucwidn",
+      "amount": 0,
+      "id": 14
     }
   ]
 }
